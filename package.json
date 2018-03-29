@@ -1,0 +1,17 @@
+{
+  "name": "integritat",
+  "version": "1.0.0",
+  "description": "It is a plataform to upload PDF's and give an option to verify a copy of a pdf to its original, guaranteing integrit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "files",
+    "doc",
+    "integrit"
+  ],
+  "author": "Pablo Moreira",
+  "license": "ISC"
+}
